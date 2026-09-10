@@ -13,6 +13,7 @@ Me chamo Daniel Dias, tenho 20 anos e sou natural de São Luís. Atualmente curs
 <img align="right" alt="" height="190px" src="./src/edgerunners.gif">
 
 <h3 align="left">Connect with me!</h3>
+
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=F1F1F1&color:FFF)](https://www.instagram.com/d1asdev?stkn=MWZyYzYyZmV0NXR5ag%3D%3D&utm_source=qr)
 
 
